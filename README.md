@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/pochunyeh1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pochunyeh1997" height="30" width="40" /></a>
 <a href="https://instagram.com/xiebojun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiebojun" height="30" width="40" /></a>
-  ![xiebojun_qr](https://github.com/ImitatedSky/ImitatedSky/assets/111834126/8613b802-93a7-4c2d-aeab-b00fb79e8b7c)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
