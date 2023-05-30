@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <!-- pytorch -->  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&show_icons=true&locale=en&layout=compact" alt="imitatedsky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&theme=radical&show_icons=true&locale=en&layout=compact" alt="imitatedsky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imitatedsky&show_icons=true&locale=en" alt="imitatedsky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imitatedsky&theme=radical&show_icons=true&locale=en" alt="imitatedsky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imitatedsky&" alt="imitatedsky" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imitatedsky&theme=radical&" alt="imitatedsky" /></p>
