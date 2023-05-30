@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/pochunyeh1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pochunyeh1997" height="30" width="40" /></a>
 <a href="https://instagram.com/xiebojun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiebojun" height="30" width="40" /></a>
+<!--
+<img src="https://github.com/ImitatedSky/ImitatedSky/assets/111834126/18634de8-2c79-45f7-8086-6256b7533c71" data-canonical-src="https://github.com/ImitatedSky/ImitatedSky/assets/111834126/18634de8-2c79-45f7-8086-6256b7533c71" width="45" height="45"></img>
+-->
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
