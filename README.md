@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <p align="center"> 
   <!-- views -->
   <img src="https://komarev.com/ghpvc/?username=imitatedsky&label=Profile%20views&color=0e75b6&style=flat" alt="imitatedsky" /> 
-  <!-- contributors -->
+  <!-- contributors 
  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/imitatedsky/imitatedsky" />
+-->
 
 </p>
 
