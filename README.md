@@ -1,4 +1,5 @@
-### Hi there 👋
+###
+<p align="center">Hi there 👋</p>
 
 <!--
 **ImitatedSky/ImitatedSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,13 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imitatedsky&label=Profile%20views&color=0e75b6&style=flat" alt="imitatedsky" /> </p>
+<p align="center"> 
+  <!-- views -->
+  <img src="https://komarev.com/ghpvc/?username=imitatedsky&label=Profile%20views&color=0e75b6&style=flat" alt="imitatedsky" /> 
+  <!-- contributors -->
+ <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/imitatedsky/imitatedsky" />
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,9 +48,11 @@ Here are some ideas to get you started:
 <!-- opencv -->  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <!-- pytorch -->  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&theme=radical&show_icons=true&locale=en&layout=compact" alt="imitatedsky" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imitatedsky&theme=radical&show_icons=true&locale=en" alt="imitatedsky" /></p>
+  
+<!-- layout=donut-vertical -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&theme=radical&show_icons=true&locale=en&layout=donut-vertical" alt="imitatedsky" /></p
+  
+<!--rank_icon=github 加入這個中間圖案變github-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imitatedsky&theme=radical&rank_icon=github&locale=en" alt="imitatedsky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imitatedsky&theme=radical&" alt="imitatedsky" /></p>
