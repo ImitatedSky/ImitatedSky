@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate developer </h3>
 
-<p align="center"> 
+<p align="left"> 
   <!-- views -->
   <img src="https://komarev.com/ghpvc/?username=imitatedsky&label=Profile%20views&color=0e75b6&style=flat" alt="imitatedsky" /> 
   <!-- contributors 
