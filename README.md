@@ -64,5 +64,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imitatedsky&theme=radical&" alt="imitatedsky" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
