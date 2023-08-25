@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 <!-- layout=donut-vertical -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&theme=radical&show_icons=true&locale=en&layout=donut-vertical" alt="imitatedsky" /></p
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imitatedsky&theme=radical&show_icons=true&locale=en&layout=donut-vertical" alt="imitatedsky" /></p>
+                                                                                                                                                                                         
 <!--rank_icon=github 加入這個中間圖案變github-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imitatedsky&theme=radical&rank_icon=github&locale=en" alt="imitatedsky" /></p>
 
